@@ -1,7 +1,7 @@
 #iniciarei com uma calculadora simples e depois irei adicionando todas as outras funções
 
 def menu ():
-      print(20 * '-', 'seja bem vindo', + 20 * '-')
+      print('.', 20 * '-', 'seja bem vindo', + 20 * '-', '.')
       print(28 * '-' + 28 * '-')
 menu()
 operador = input('selecione a opcão que deseja: \n'
